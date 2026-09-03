@@ -1,7 +1,5 @@
 ﻿using System.Xml.Linq;
-
-namespace bakend;
-
+using WorkShop._2.Backend;
 
 public class Circle : GeometricFigure
 {
@@ -12,9 +10,10 @@ public class Circle : GeometricFigure
     // Constructor
     public Circle(string name, double r)
     {
-        Name = name;
         R = r;
+        Name = name;
     }
+
     // Properties 
 
     public double R

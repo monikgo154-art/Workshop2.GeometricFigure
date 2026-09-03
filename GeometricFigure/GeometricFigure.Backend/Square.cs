@@ -1,6 +1,4 @@
-﻿using System.Xml.Linq;
-
-namespace bakend;
+﻿using WorkShop._2.Backend;
 
 public class Square : GeometricFigure
 {

@@ -1,6 +1,5 @@
-﻿namespace bakend;
-
-
+﻿using bakend;
+using WorkShop._2.Backend;
 
 public class Rhombus : Square
 {

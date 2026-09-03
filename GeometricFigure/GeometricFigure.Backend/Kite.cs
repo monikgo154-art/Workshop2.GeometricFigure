@@ -1,5 +1,4 @@
-﻿namespace bakend;
-
+﻿using bakend;
 
 public class Kite : Rhombus
 {
