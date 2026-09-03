@@ -1,4 +1,4 @@
 <Solution>
-  <Project Path="GeometricFigure.Backend/GeometricFigure.Backend.csproj" Id="6bc5fd97-420c-4324-8c5b-7bed530160f3" />
+  <Project Path="GeometricFigure.Backend/Backend.csproj" Id="6bc5fd97-420c-4324-8c5b-7bed530160f3" />
   <Project Path="GeometricFigure.Frontend/Frontend/Frontend.csproj" Id="20793409-147e-4516-be02-744d75889e16" />
 </Solution>

@@ -1,5 +1,5 @@
-﻿using System.Xml.Linq;
-using WorkShop._2.Backend;
+﻿
+namespace Backend;
 
 public class Circle : GeometricFigure
 {

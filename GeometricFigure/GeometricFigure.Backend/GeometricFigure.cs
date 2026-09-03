@@ -1,4 +1,5 @@
-﻿namespace WorkShop._2.Backend;
+﻿
+namespace Backend;
 
 public abstract class GeometricFigure
 {

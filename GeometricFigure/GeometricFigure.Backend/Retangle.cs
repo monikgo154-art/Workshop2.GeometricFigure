@@ -1,5 +1,5 @@
-﻿using bakend;
-using WorkShop._2.Backend;
+﻿
+namespace Backend;
 
 public class Rectangle : Square
 {

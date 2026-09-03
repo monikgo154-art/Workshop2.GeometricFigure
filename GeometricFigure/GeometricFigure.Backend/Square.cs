@@ -1,4 +1,5 @@
-﻿using WorkShop._2.Backend;
+﻿
+namespace Backend;
 
 public class Square : GeometricFigure
 {

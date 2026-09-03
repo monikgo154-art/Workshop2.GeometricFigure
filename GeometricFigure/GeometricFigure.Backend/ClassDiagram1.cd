@@ -1,62 +1,55 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
-  <Class Name="WorkShop._2.Backend.GeometricFigure">
-    <Position X="4.75" Y="1.5" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAEAAAAAAQAAAAAAAEAAAAAEAAAAAA=</HashCode>
-      <FileName>GeometricFigure.cs</FileName>
-    </TypeIdentifier>
-  </Class>
-  <Class Name="bakend.Trapeze">
+  <Class Name="Backend.Trapeze">
     <Position X="0.5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAgAAAAACAAAAAAAAAAAAAAAAAAAEAAAAAFAAAAAA=</HashCode>
       <FileName>Trapeze.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="bakend.Triangle">
+  <Class Name="Backend.Triangle">
     <Position X="2.5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAEAAAAAmEABAAA=</HashCode>
       <FileName>Triangle.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="Circle">
+  <Class Name="Backend.Circle">
     <Position X="7" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAEAACAAEAAAAQA=</HashCode>
       <FileName>Circle.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="Rhombus">
+  <Class Name="Backend.Rhombus">
     <Position X="7" Y="3.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAgAAAAAAAAAAAAAAAAAAQAAAAAAEIAAkAEAAAAAA=</HashCode>
       <FileName>Rhombus.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="Kite">
+  <Class Name="Backend.Kite">
     <Position X="9.25" Y="4.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAACAAAAAAAAAIAAAAAAAAAEAAAAAEAEAAAA=</HashCode>
       <FileName>Kite.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="Parallelogram">
+  <Class Name="Backend.Parallelogram">
     <Position X="0.5" Y="4.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAEAAAAAGEAAAAA=</HashCode>
       <FileName>Parellelogram.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="Rectangle">
+  <Class Name="Backend.Rectangle">
     <Position X="2.5" Y="4.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAACAAAAAAAAAIAAAAAAAAAEAAAAAEAEAAAA=</HashCode>
       <FileName>Retangle.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="Square">
+  <Class Name="Backend.Square">
     <Position X="4.75" Y="4.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAACAQAAAAAAAAAAAAAAAAAEAAAAAMAAAAAA=</HashCode>

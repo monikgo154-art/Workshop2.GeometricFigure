@@ -1,5 +1,5 @@
-﻿namespace bakend;
-
+﻿
+namespace Backend;
 
 public class Triangle : Rectangle
 {
