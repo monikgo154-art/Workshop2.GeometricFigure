@@ -1,5 +1,4 @@
-﻿
-using System.Drawing;
+﻿using System.Drawing;
 using WorkShop._2.Backend;
 
 var circle = new Circle(name: nameof(Circle), r: 5);
